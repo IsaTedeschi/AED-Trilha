@@ -1,6 +1,0 @@
-#ifndef VERTICE_H_INCLUDED
-#define VERTICE_H_INCLUDED
-
-
-
-#endif // VERTICE_H_INCLUDED
